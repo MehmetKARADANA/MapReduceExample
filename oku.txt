@@ -1,0 +1,6 @@
+Apache Hadoop MapReduce ,
+ çok büyük miktarlarda veri işleyen işler
+  yazmaya yönelik bir yazılım çerçevesidir. 
+  Giriş verileri bağımsız öbeklere bölünür. 
+  Her öbek, kümenizdeki düğümler arasında 
+  paralel olarak işlenir.
